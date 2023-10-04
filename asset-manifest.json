@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/AILabs/static/css/main.f0d70088.css",
-    "main.js": "/AILabs/static/js/main.48dba573.js",
+    "main.js": "/AILabs/static/js/main.c19202c3.js",
     "static/js/787.5bc43657.chunk.js": "/AILabs/static/js/787.5bc43657.chunk.js",
     "static/media/logo.svg": "/AILabs/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/AILabs/index.html",
     "main.f0d70088.css.map": "/AILabs/static/css/main.f0d70088.css.map",
-    "main.48dba573.js.map": "/AILabs/static/js/main.48dba573.js.map",
+    "main.c19202c3.js.map": "/AILabs/static/js/main.c19202c3.js.map",
     "787.5bc43657.chunk.js.map": "/AILabs/static/js/787.5bc43657.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f0d70088.css",
-    "static/js/main.48dba573.js"
+    "static/js/main.c19202c3.js"
   ]
 }
