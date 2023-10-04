@@ -13,7 +13,7 @@ function App() {
   return (
     <Fragment>
       <Routes>
-      <Route path="/" element={<Header />} />
+      <Route path="/AILabs" element={<Header />} />
       <Route path="/" element={<Navbar />} />
       <Route path="/" element={<Dashboard />} />
       </Routes>
